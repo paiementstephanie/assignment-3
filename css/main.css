@@ -7,4 +7,10 @@ h1 {
 	font-size:5rem;
 	font-style:bold;
 	font-family: 'Bevan', cursive;
+	line-height: 1.5;
+}
+
+ol{
+	list-style-type:none;
+	padding:0;
 }
