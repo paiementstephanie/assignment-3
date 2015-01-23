@@ -2,7 +2,7 @@ html {
 	background-color: #dbd6cf;
 }
 
-h1 {
+h1,h2,h3 {
 	font-weight: normal;
 	font-size: 5rem;
 	font-style: bold;
@@ -15,12 +15,10 @@ ol{
 	padding:0;
 }
 
-h2 {
-	font-weight: normal;
-	font-size: 3rem;
-	font-style: bold;
-	font-family: 'Bevan', cursive;
-	line-height: 1.5;
+body{
+	font-family: 'Georgia', sans-serif;
+	margin:0 auto;
+	max-width:45rem;
 }
 
 .plan{
