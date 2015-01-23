@@ -85,7 +85,11 @@ blockquote{
 	text-align:center;
 	font-size:1.5rem;
 	font-style:italic;
+}
 
-
+span {
+	color:#79756f;
+	font-weight:bold;
+}
 
 
