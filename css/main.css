@@ -51,7 +51,32 @@ a:hover{
 	color:#f26f51;
 }
 
-.semi{
-	font-style: bold;
+dt{
+	font-weight: bold;
+	font-size: 1em;
 }
 
+.celest{
+	color:#79756f;
+}
+
+.round{
+	color:#79756f;
+}
+
+.neil{
+	 color:#79756f;
+	 text-align:right;
+}
+
+.comp{
+	font-size:0.5;
+	font-style:italic;
+	font-family: 'Georgia', sans-serif;
+}
+
+.real{
+		font-size:0.5;
+	font-style:italic;
+	font-family: 'Georgia', sans-serif;
+}
