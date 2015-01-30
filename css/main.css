@@ -3,8 +3,7 @@ html {
 }
 
 h1,h2,h3 {
-	font-weight: normal;
-	font-style: bold;
+	font-weight: bold;
 	font-family: 'Bevan', cursive;
 	line-height: 1.5;
 }
@@ -70,13 +69,13 @@ dt{
 }
 
 .comp{
-	font-size:0.5;
+	font-size:0.5rem;
 	font-style:italic;
 	font-family: 'Georgia', sans-serif;
 }
 
 .real{
-		font-size:0.5;
+		font-size:0.5rem;
 	font-style:italic;
 	font-family: 'Georgia', sans-serif;
 }
